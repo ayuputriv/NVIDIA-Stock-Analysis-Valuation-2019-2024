@@ -170,7 +170,6 @@ Interpretation:
 * Small changes in assumptions → huge swings in valuation
 * NVDA’s extreme growth makes DCF highly sensitive
 
----
 
 #### 10. Included HTML Report
 
@@ -189,4 +188,14 @@ NVIDIA Stock Analysis.html
 * **Technical indicators** confirm strong long-term uptrend.
 * **DCF valuation is extremely sensitive**, especially given NVDA's explosive performance.
 * Intrinsic value calculation needs careful handling of units (millions → dollars → shares).
+
+---
+
+## 👩🏻‍💻 About Me
+
+**Ayu Putri Vidiantiwi**  
+* 📚 M.S. in Applied Analytics, Columbia University  
+* 📊 Passionate about finance, business, data storytelling, and analytics
+* 🌐 LinkedIn - https://www.linkedin.com/in/ayuputriv/
+* 📧 ayu.vidiantiwi@columbia.edu
 
