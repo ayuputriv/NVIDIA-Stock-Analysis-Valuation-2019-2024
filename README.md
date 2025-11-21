@@ -52,6 +52,7 @@ Used to compute revenue growth, margins, reinvestment ratios, etc.
 #### 1. Price Trend Analysis
 
 Historical closing prices were plotted to visualize long-term growth.
+
 Key insight: massive acceleration post-2019 driven by AI/Data-center demand.
 
 
@@ -146,7 +147,7 @@ Using:
 * cash
 * shares outstanding
 
-I compute:
+Then, I compute:
 
 ```
 Equity Value = EV – Debt + Cash
